@@ -1,0 +1,487 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+h1,h2,h3,h4,h,h6,p,ul,ol,li{
+    margin: 0;
+    padding: 0;
+}
+/*======================================================*/
+
+.menu_header{
+    background: #333232f5;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+.menu_header a{
+    color: #b20000;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Northstar';
+}
+.main_menu ul li{
+    margin-left: 20px;
+}
+.main_menu ul li a{
+   color: #bbbbbb;
+   font-size: 16px;
+   font-weight: 500;
+   font-family: 'a Asian Ninja';
+   text-transform: uppercase;
+}
+.main_menu ul li a:hover{
+    color: #d2691e;
+}
+/*=========================================================================*/
+#banner_part{
+}
+.baner_buttn{
+    margin-top: 600px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.baner_buttn a{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'a Asian Ninja';
+    padding: 10px 30px;
+    background: #d2691e;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.banner_text{
+    text-align: center;
+}
+.banner_text i{
+    color: #b20000;
+    font-size: 20px;
+}
+.banner_text h1{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'a Asian Ninja';
+    margin-top: 20px;
+}
+.banner_text p{
+    color: #fff;
+    font-size: 12px;
+    font-family: 'Northstar';
+    margin-bottom: 20px;
+}
+/*=========================================================================*/
+#service_part{
+    padding: 50px 0;
+    background: #1f1f1f;
+}
+.service_textt{
+    text-align: center;
+}
+.service_textt h2{
+    color: #bbbbbb;
+    font-size: 24px;
+    font-family: 'Northstar';
+}
+.service_textt p{
+    color: #bbbbbb;
+    font-size: 14px;
+    font-family: 'a Asian Ninja';
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.service_textt a{
+    padding: 10px 30px;
+    background: #d2691e;
+    color: #fff;
+    font-size: 14px;
+    font-family: 'a Asian Ninja';
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.serv_logpart{
+    background: #bbbbbb;
+    width: 700px;
+    height: 550px;
+    margin-left: -50px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.service_logo{
+    background: #fff;
+    margin-top: 10px;
+    width: 400px;
+    margin-left: 130px;
+    border-radius: 5px;
+}
+.service_logo h3{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'a Asian Ninja';
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+.service_logo p{
+    text-align: center;
+    font-size: 14px;
+    font-family: 'a Asian Ninja';
+    text-transform: uppercase;
+    line-height: 10px;
+}
+.serv_mainlogo{
+    margin-top: 20px;
+    margin-right: -20px;
+    margin-left: 20px;
+}
+.serv_mainlogo h4{
+    font-size: 20px;
+    font-family: 'a Asian Ninja';
+    margin-top: 10px;
+}
+/*=========================================================================*/
+/*=========================================================================*/
+/*=========================================================================*/
+/*=========================================================================*/
+/*=========================================================================*/
+#testmonial_part{
+    padding: 30px 0;
+}
+.testmonial_text p{
+    color: #999999;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Northstar';
+    text-transform: uppercase;
+    text-align: center;
+}
+.testmonial_text h3{
+    color: #999999;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'a Asian Ninja';
+    text-align: center;
+    margin-top: 10px;
+}
+/*=========================================================================*/
+#test_slid{
+    padding-top: 20px;
+    padding-bottom: 60px;
+}    
+.slide_part{
+    padding: 40px 0;
+}
+.slidpart_one{
+    position: relative;
+    background: #f5f5f5;
+    margin-right: 40px;
+}
+.slidpart_one p{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'light a Asian Ninja';
+    padding: 20px;
+}
+.slidpart_one   img{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.test_overly{
+    position: absolute;
+    top: 150px;
+    left: 300px;
+    width: 250px;
+    height: 150px;
+    background: #d9b257;
+    padding: 15px;
+}
+.test_overly h5{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'light a Asian Ninja';
+    margin-top: 10px;
+}
+.test_overly  h6{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'light a Asian Ninja';
+    margin-top: 10px;
+}
+.test_overly ul{
+    margin-top: 20px;
+}
+.test_overly ul li{
+    margin-right: 5px;
+}
+.test_overly ul li i{
+    color: #fff;
+    font-size: 20px;
+}
+.main_slider .slick-dots li button{
+    font-size: 0;
+    width: 16px;
+    height: 16px;
+    border: 2px solid #999999;
+    border-radius: 50%;
+    background: transparent;
+}
+.slick-dots{
+    display: flex;
+    padding-left: 530px;
+}
+.slick-dots li{
+    margin-left: 5px;
+}
+.main_slider .slick-dots li.slick-active button{
+    width: 18px;
+    height: 18px;
+    background: #999999;
+    border: none;
+}
+/*=========================================================================*/
+#counter_part{
+    background: #1d1c1cf5;
+    padding-bottom: 40px;
+}
+.count_head h1{
+    color: #999999;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Northstar';
+    margin-top: 20px;
+}
+.count_head p{
+    color: #999999;
+    font-size: 16px;
+    font-weight: light 300;
+    font-family: 'light a Asian Ninja';
+}
+/*=========================================================================*/
+#blog_part{
+    padding: 40px 0;
+    background: #333232f5;
+}
+.blog_header p{
+        text-align: center;
+        color: #999999;
+        font-size: 24px;
+        font-weight: 600;
+        font-family: 'Northstar';
+}
+.blog_header h1{
+        text-align: center;
+        color: #999999;
+        font-size: 20px;
+        font-weight: 700;
+        font-family: 'a Asian Ninja';
+}
+.blog_text{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.blog_t-img{
+    position: relative;
+    margin-right: 20px;
+}
+.blog_overly{
+     position: absolute;
+    top: 230px;
+    left: 100px;
+    width: 370px;
+    height: 194px;
+    background: #f5f5f5;
+    border: 2px solid #999999;
+}
+.blog_overly p{
+    color: #999999;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'light a Asian Ninja';
+    margin-right: 30px;
+     margin-top: 20px;
+}
+.blog_overly h3{
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'light a Asian Ninja';
+    margin-right: 30px;
+}
+.blog_overly a{
+    position: relative;
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'light a Asian Ninja';
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.blog_overly a::after{
+    position: absolute;
+    content: '';
+    top: 30px;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: #999999;
+}
+.blog_t-img:hover img{
+    box-shadow: 1px 4px 7px 8px;
+}
+.blog_t-img:hover .blog_overly h3{
+    color: #999999;
+}
+.blog_t-img:hover .blog_overly a{
+    color: #999999;  
+}
+.blog_butt{
+        text-align: center;
+        margin-top: 53px;
+}
+.blog_butt a{
+    padding: 16px 37px;
+    background: #999999;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'light a Asian Ninja';
+    border-radius: 5px;
+}
+.blog_butt a:hover{
+    background: #fff;
+}
+/*=========================================================================*/
+/*=========================================================================*/
+
+#footer_part{
+    background: black;
+    padding: 50px 0;
+}
+.fotet_cnttext{
+    padding-top: 30px;
+}
+.fotet_cnttext a{
+    color: #999999;
+    font-size: 26px;
+}
+
+.fotet_cnttext a i {
+    margin-top: 0;
+}
+.footer_1stcol h1{
+    color: #999999;
+    font-size: 35px;
+    font-weight: 600;
+    font-family: 'Northstar';
+    margin-top: 150px;
+}
+.footer_1stcol p{
+    color: #999999;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'a Asian Ninja';
+}
+.footer_cnt h3{
+    color: #999999;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Northstar';
+    margin-top: 20px;
+}
+.col_number p{
+    color: #999999;
+    font-size: 14px;
+    font-family: 'light a Asian Ninja';
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.foter_sign h3{
+    color: #999999;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Northstar';
+    margin-top: 20px;
+}
+
+.sign_frm input{
+    background: transparent;
+    width: 240px;
+    height: 46px;
+    margin-top: 30px;
+    border: 1px solid #999999;
+}
+            
+    
+.sign_frm button{
+    background: #999999;
+    color: black;
+     width: 124px;
+    height: 47px;
+    margin-top: 27px;
+    border: none;
+}
+.sign_social h2{
+    color: #999999;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Northstar';
+    margin-top: 40px;
+}
+    
+.sign_social ul{
+     margin-top: 20px;
+}
+.sign_social li{
+    margin-left: 10px;
+}
+.sign_social li a{
+    color: #999999;
+    font-size: 18px;
+    font-family: 'light a Asian Ninja';
+}
+.sign_social li a i{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #999999;
+    border-radius: 50%;
+    transition: 0.3s;             
+}
+.socil_last p{
+    color: #999999;
+    font-size: 13px;
+    font-weight: 300;
+    font-family: 'light a Asian Ninja';
+    margin-top: 30px;
+}
+
+.back-to-top {
+    width: 40px;
+    height: 40px;
+    color: black;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #fff;
+    background: #999999;
+    position: fixed;
+    right: 30px;
+    bottom: 40px;
+    z-index: 999;
+
+}
+/*=========================================================================*/

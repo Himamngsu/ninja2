@@ -1,0 +1,578 @@
+@media (min-width: 1400px){
+    
+}
+
+@media (min-width: 1200px) and (max-width:1399px){
+    /*.row > * {
+        width: 1200px;
+    }
+    #banner-part .slick-dots {
+        margin-left: 570px;
+    }
+    #banner-part .header_part {
+        padding-top: 30px;
+        padding-bottom: 49px;
+    }
+    #banner-part .header_part .header_text button {
+        margin-top: 20px;
+    }
+    #price_part .appis img {
+        margin-left: 450px;
+    }
+    #price_part .appis h3::after {
+        left: 275px;
+        width: 38%;
+    }
+    #contac_part .contact_photo img {
+        width: 580px;
+    }
+    #contac_part .contact_photo_2 img {
+        width: 580px;
+    }
+    #contac_part .contact_text h3 {
+        margin-top: 20px;
+    }
+    #contac_part .contact_text img {
+        margin-left: 460px;
+    }
+    #footer_part .footer_text img {
+        margin-left: 450px;
+    }
+    #footer_part .footer_text .payable ul {
+        margin-left: 480px;
+    }*/
+
+
+
+
+}
+
+@media (min-width: 992px) and (max-width:1199px){
+    .row > * {
+        width: 992px;
+    }
+    #banner-part .header_part {
+        padding-top: 30px;
+        padding-bottom: 49px;
+    }
+    #banner-part .header_part .header_text button {
+        margin-top: 20px;
+    }
+    #banner-part .slick-dots {
+        margin-left: 480px;
+    }
+    #about_part {
+        padding: 30px 0;
+    }
+    #service_part {
+        padding: 30px 0;
+    }
+    #service_part .fine_text {
+        margin-left: 400px;
+    }
+    #project_patr {
+        padding: 30px 0;
+    }
+    #price_part {
+        padding: 30px 0;
+    }
+    #project_patr .project_gall .project_textt h3 {
+        text-align: center;
+    }
+    #project_patr .project_gall .project_textt h4 {
+        text-align: center;
+    }
+    #price_part .appis img {
+        margin-left: 370px;
+    }
+    #price_part .appis h3::after {
+        left: 196px;
+        width: 43%;
+    }
+    #contac_part {
+        padding: 30px 0;
+    }
+    #contac_part .contact_photo img {
+        width: 450px;
+        margin-left: 10px;
+    }
+    #contac_part .contact_photo_2 img {
+        width: 450px;
+    }
+    #contac_part .contact_text h3 {
+        font-size: 36px;
+        margin-top: 20px;
+    }
+    #contac_part .contact_text img {
+        margin-left: 360px;
+    }
+    #footer_part {
+        padding: 30px 0;
+    }
+    #footer_part .footer_text img {
+        margin-left: 380px;
+        width: 200px;
+    }
+    #footer_part .footer_text p {
+        margin-bottom: 10px;
+    }
+    #footer_part .footer_text .payable ul {
+        margin-left: 400px;
+        margin-bottom: 10px;
+    }
+
+
+
+
+}
+
+@media (min-width: 576px) and (max-width:991px){
+    .row > * {
+        width: 576px;
+    }
+    .main_part {
+        background: #076015;
+    }
+    h1, h2, h3, h4, h, h6, p, ul, ol, li {
+        text-align: center;
+        border: none;
+    }
+    .main_part .menu a::before {
+        display: none;
+    }
+    .main_part .menu a::after {
+        display: none;
+    }
+    h1, h2, h3, h4, h, h6, p, ul, ol, li {
+        line-height: 10px;
+    }
+    /*==menu bar end===================================*/
+    #banner-part .header_part {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #banner-part .header_part .header_text h6 {
+        font-size: 14px;
+    }
+    #banner-part .header_part .header_text h1 {
+        font-size: 25px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    #banner-part .header_part .header_text p {
+        font-size: 14px;
+    }
+    #banner-part .header_part .header_text img {
+        margin-top: 20px;
+        width: 70px;
+    }
+    #banner-part .header_part .header_text button a {
+        padding: 5px 20px;
+        font-size: 12px;
+    }
+    #banner-part .header_part .header_text button {
+        margin-left:40%;
+        margin-top: 5px;
+    }
+    #banner-part .slick-dots {
+        margin-left: 260px;
+    }
+    #banner-part .slick-dots {
+        margin-top: -30px;
+    }
+    /* banner part end====================================================================*/
+    #about_part {
+        padding: 30px 0;
+    }
+    #about_part .about_textArea .text_area1 h3 {
+        font-size: 24px;
+    }
+    img, svg {
+        width: 150px;
+        margin-top: -10px;
+    }
+    #about_part .about_textArea .text_area1 p {
+        font-size: 12px;
+        margin-top: 10px;
+        line-height: 15px;
+    }
+    #about_part .about_textArea .text_area1 a {
+        padding: 5px 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    /* about part end====================================================================*/
+    #service_part {
+        padding: 30px 0;
+    }
+    #service_part .fine_text {
+        margin-left: 10px;
+    }
+    #service_part .fine_text {
+        width: 500px;
+        height: 300px;
+    }
+    #service_part .fine_text h4 {
+        font-size: 24px;
+        padding-top: 0;
+        margin-left: -90px;
+    }
+    #service_part .fine_text img {
+        margin-top: 10px;
+    }
+    #service_part .fine_text p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+
+    #service_part .fine_text .fine_imh {
+         margin-left: 40px; 
+    }
+    #service_part .fine_text .fine_imh img {
+        margin-right: 10px;
+        width: 100px;
+    }
+    /* service part end====================================================================*/
+    #project_patr {
+        padding: 20px 0;
+    }
+    #project_patr .project_header h2 {
+        font-size: 24px;
+    }
+    #project_patr .project_header p {
+        font-size: 14px;
+        margin-top: 10px;
+        margin-bottom: 0;
+        line-height: 15px;
+    }
+    #project_patr .project_gall .project_textt h3 {
+        font-size: 14px;
+    }
+    #project_patr .project_gall .project_textt h4 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    #project_patr .project_gall .project_textt p {
+        font-size: 12px;
+        line-height: 15px;
+        margin-top: -50px;
+    }
+    #project_patr .btnn button a {
+        padding: 5px 20px;
+        font-size: 12px;
+    }
+    /*project part end====================================================================*/
+    #price_part {
+        padding: 20px 0;
+    }
+    #price_part .appis h2 {
+        font-size: 24px;
+    }
+    #price_part .appis img {
+        margin-left: 180px;
+    }
+    #price_part .appis h3 {
+        font-size: 16px;
+    }
+    #price_part .appis h3::after {
+        top: 22px;
+    }
+    #price_part .appis p {
+        font-size: 13px;
+    }
+    #counter_part .count_head img {
+        width: 80px;
+    }
+    #counter_part .count_head p {
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    #counter_part .count_head h1 {
+        font-size: 24px;
+        margin-top: 10px;
+    }
+    .text-center {
+        margin-top: 50px;
+    }
+    #counter_part {
+        padding-bottom: 0;
+    }
+    /* price part end====================================================================*/
+    #contac_part .contact_photo img {
+        width: 250px;
+        margin-right: 5px;
+    }
+    #contac_part .contact_photo_2 img {
+        width: 250px;
+    }
+    #contac_part .contact_text h3 {
+        font-size: 24px;
+        margin-top: 20px;
+    }
+    #contac_part .contact_text img {
+        margin-left: 180px;
+    }
+    #contac_part .contact_text p {
+        font-size: 12px;
+    }
+    /* contact part end====================================================================*/
+    #footer_part {
+        padding: 20px 0;
+    }
+    #footer_part {
+        border: none;
+    }
+    #footer_part .footer_text h3 {;
+        margin-top: 10px;
+    }
+    #footer_part .footer_text img {
+        margin-left: 180px;
+    }
+    #footer_part .footer_text p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    #footer_part .footer_text .payable ul {
+        margin-left: 180px;
+    }
+    /* banner part end====================================================================*/
+
+  
+}
+
+
+
+
+
+@media (max-width: 575.98px){
+    .row > * {
+        width: 320px;
+    }
+    /* main Part =========================================*/
+    .main_part {
+        background: #915302;
+    }
+    .main_part a {
+        font-size: 14px;
+    }
+    #banner-part {
+       
+    }
+    #banner-part .header_part {
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+    #banner-part .header_part .header_text {
+        margin-top: 20px;
+    }
+    #banner-part .header_part .header_text h6 {
+        font-size: 13px;
+    }
+    #banner-part .header_part .header_text h1 {
+        font-size: 20px;
+        font-weight: 500;
+        letter-spacing: 5px;
+        margin-top: 10px;
+    }
+    #banner-part .header_part .header_text p {
+        font-size: 12px;
+    }
+    #banner-part .header_part .header_text img {
+        margin-left: 35%;
+        margin-top: 10px;
+        width: 100px;
+        height: 20px;
+    }
+    #banner-part .header_part .header_text button a {
+        padding: 5px 20px;
+        font-size: 9px;
+        font-weight: 300;
+    }
+    #banner-part .header_part .header_text button {
+        margin-left: 35%;
+        margin-top: 5px;
+    }
+    #banner-part .slick-dots {
+        margin-left: 130px;
+    }
+   
+    #banner-part .slick-dots {
+        margin-top: -40px;
+    }
+    //*about_part=========================================*//
+    #about_part {
+        padding: 10px 0;
+    }
+    #service_part {
+        padding: 10px 0;
+    }
+    #about_part .about_textArea .text_area1 h3 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    #about_part .about_textArea .text_area1 img {
+        width: 100px;
+    }
+    #about_part .about_textArea .text_area1 p {
+        font-size: 10px;
+        margin-top: 0;
+    }
+    #about_part .about_textArea .text_area1 a {
+        padding: 5px 15px;
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    //*service_part===========================================*//
+    #service_part {
+        padding: 10px 0;
+    }
+    #service_part .fine_text h4 {
+        font-size: 16px;
+        padding-top: 0px;
+        margin-left: -20px;
+    }
+    #service_part .fine_text img {
+        margin-top: 5px;
+        width: 100px;
+    }
+    #service_part .fine_text p {
+        font-size: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    #service_part .fine_text .fine_imh{
+        margin-left: 10px;
+    }
+    #service_part .fine_text .fine_imh img {
+        margin-right: 10px;
+        width: 60px;
+        margin-top: 20px;
+    }
+    #service_part .fine_text {
+        width: 300px;
+        height: 300px;
+    }
+    
+    //*project prt=============================*//
+    #project_patr {
+        padding: 10px 0;
+    }
+    #project_patr {
+        padding: 10px 0;
+    }
+    #project_patr .project_header h2 {
+        font-size: 16px;
+    }
+    #project_patr .project_header p {
+        font-size: 10px;
+        margin-top: 5px;
+        margin-bottom: 0px;
+    }
+    #project_patr .btnn button a {
+        padding: 5px 15px;
+        font-size: 12px;
+    }
+    /*==========================================================*/
+    #price_part {
+        padding: 10px 0;
+    }
+    #price_part .appis h2 {
+        font-size: 16px;
+    }
+    #price_part .appis img {
+        margin-left: 100px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        width: 100px;
+    }
+    #price_part .appis h3 {
+        font-size: 10px;
+        margin-bottom: 5px;
+        margin-left: -30px;
+    }
+    #price_part .appis h3 span {
+        margin-left: -40px;
+    }
+    #price_part .appis h3::after {
+        top: 20px;
+        left: 0;
+        width:50%;
+        margin-left: 70px;
+    }
+    #price_part .appis p {
+        font-size: 10px;
+        margin-bottom: 10px;
+    }
+    /*==========================================================*/
+   
+    #contac_part {2;
+        padding: 10px 0;
+    }
+    #contac_part .contact_photo img {
+        width: 150px;
+    }
+    #contac_part .contact_photo_2 img {
+        width: 150px;
+    }
+    #contac_part .contact_text h3 {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    #contac_part .contact_text img {
+        margin-left: 90px;
+        margin-top: 0px;
+        width: 100px;
+    }
+    #contac_part .contact_text p {
+        font-size: 10px;
+        margin: 0 70px;
+        margin-bottom: 30px;
+        margin-top: 10px;
+    }
+    /* footer=================================================*/
+    #footer_part {
+        padding: 10px 0;;
+    }
+    #footer_part .footer_text h3 {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    #footer_part .footer_text img {
+        margin-left: 100px;
+        width: 100px;
+    }
+    #footer_part .footer_text p {
+        font-size: 10px;
+        line-height: 10px;
+    }
+    #footer_part .footer_text .payable ul {
+        margin-top: 10px;
+        margin-left: 110px;
+    }
+    #footer_part .footer_text .payable ul li {
+        margin-left: 5px;
+    }
+    #footer_part .footer_text .payable ul li a {
+        font-size: 14px;
+    }
+    #footer_part .footer_text h3 {
+        margin-left: 20px;
+    }
+    //*top_to_bottom=================================================*//
+
+    .back-to-top {
+        width: 20px;
+        height: 20px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .back-to-top {
+        width: 20px;
+        height: 20px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+ //*top_to_bottom end =================================================*//
+
+
+}
